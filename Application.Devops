@@ -6,6 +6,24 @@
  * All rights reserved.
  *
  * This software is the confidential and proprietary information of Sun
+#feature201 changes by vinay for the module paymentgateway.
+/**
+ *  
+        Class description goes here.
+ *
+ * @version      
+        1.82 18 Mar 1999  * @author          
+        Firstname Lastname  */
+public class Blah extends SomeClass {
+  
+           /* A class implementation comment can go here. */ 
+    /**  
+        classVar1 documentation comment */
+    public static int classVar1;
+
+    /** 
+#end of feature201 code
+
  * Microsystems, Inc. ("Confidential Information").  You shall not
  * disclose such Confidential Information and shall use it only in
  * accordance with the terms of the license agreement you entered into
